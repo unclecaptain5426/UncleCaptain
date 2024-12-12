@@ -1,0 +1,13 @@
+http://web.archive.org/web/20080907114225/http://dl.google.com/chrome/install/149.27/chrome_installer.exe
+
+Make sure you have 7-Zip installed.
+
+Open the installer with 7-Zip by right clicking on the installer and click open archive.
+
+Open inside of Chrome.7z
+
+Extract the Chrome-bin folder to C:\.
+
+Press WinKey + R to type C:\Chrome-bin.
+
+On the Chrome-bin folder window, move chrome.exe to the 0.2.149.27 folder. And start chrome.exe from the 0.2.149.27 folder and will start.
